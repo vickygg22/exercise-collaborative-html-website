@@ -1,4 +1,23 @@
+
 body{
+    background: ;
+}
+
+
+.container{
+    background: antiquewhite !important;
+    width: 800px !important;
+    margin:auto !important;
+}
+#foto-second{
+    width: 200px !important;
+    height: 200px !important;
+    
+}
+#grey{
+    color: lightgrey !important;
+    
+}
     background: #BDBDBD;
 }
 .backgroundOfJumb {
