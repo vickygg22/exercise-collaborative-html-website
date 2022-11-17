@@ -1,11 +1,6 @@
 
-body{
-    background: ;
-}
-
-
 .container{
-    background: antiquewhite !important;
+    background: white !important;
     width: 800px !important;
     margin:auto !important;
 }
@@ -18,8 +13,7 @@ body{
     color: lightgrey !important;
     
 }
-    background: #BDBDBD;
-}
+
 .backgroundOfJumb {
     height:600px;
     align-items:center;
@@ -42,4 +36,18 @@ margin-left: 10px;
 #square3 {
     width:300px !important;
     height:200px !important;
+}
+
+.photoheading {
+border-radius: 50%;
+width: 200px !important;
+height: 200px !important;
+
+}
+.containerheading {
+    padding-top: 40px;
+background: white !important;
+width: 800px !important;
+margin:auto !important;
+margin-top: 20;
 }
