@@ -10,7 +10,7 @@
     
 }
 #grey{
-    color: lightgrey !important;
+    color: grey !important;
     
 }
 
@@ -23,7 +23,7 @@
     padding-right: 10px;
 }
 .styleOfNavbar {
-margin-left: 10px;
+    margin-left: 10px;
 }
 #square1 {
     width:250px !important;
@@ -45,9 +45,12 @@ height: 200px !important;
 
 }
 .containerheading {
-    padding-top: 40px;
-background: white !important;
-width: 800px !important;
-margin:auto !important;
-margin-top: 20;
+    padding-top: 90px;
+    padding-bottom: 50px;
+    background: white !important;
+    width: 800px !important;
+    margin:5% auto !important;
+}
+.ofFooter {
+    height: 80px;
 }
